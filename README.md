@@ -28,14 +28,3 @@ No real-world system is attacked or tested without permission.
 | Folder | Description |
 |---|---|
 | `notes/` | Step-by-step writeups for each level |
-| `scripts/` | Helper scripts used during solving |
-| `screenshots/` | Screenshots for documentation |
-| `resources/` | Useful commands and references |
-
-## Progress
-
-| Level | Status | Topic |
-|---|---|---|
-| Natas 0 → 1 | Done | HTML source inspection |
-| Natas 1 → 2 | Pending | Browser restriction bypass |
-| Natas 2 → 3 | Pending | Hidden files |
